@@ -12,7 +12,7 @@ there are sound effects, so play with sound on. WASD/Arrow Keys to move.
 
 link to game: https://maze-minigame.vercel.app/
 
-link to video: https://github.com/user-attachments/assets/162a8433-f01f-4df1-9d95-6f03355197f0
+link to video: <video src='https://github.com/user-attachments/assets/162a8433-f01f-4df1-9d95-6f03355197f0' width=180/>
 
 
 ## additional information
