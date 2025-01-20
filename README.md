@@ -11,7 +11,9 @@ touching a wall causes the player to lose. escaping makes them win.
 there are sound effects, so play with sound on. WASD/Arrow Keys to move.
 
 link to game: https://maze-minigame.vercel.app/
-link to video: tbd
+
+link to video: https://github.com/user-attachments/assets/162a8433-f01f-4df1-9d95-6f03355197f0
+
 
 ## additional information
 sin^2x + cos^2x = 1
