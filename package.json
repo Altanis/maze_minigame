@@ -1,0 +1,12 @@
+{
+  "name": "maze_minigame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec \"npx serve --no-clipboard\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
